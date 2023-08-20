@@ -1,1 +1,1 @@
-"# Sentiment-Analysis" 
+Sentiment analysis is a crucial aspect of natural language processing that involves determining the emotional tone or sentiment expressed in a piece of text. So, this is a Deep learning model for the detection and segmentation of sentiments, whether positive, neutral, or negative, even if they contain contradictory statements.
